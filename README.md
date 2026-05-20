@@ -2,14 +2,14 @@
 
 **「我喜欢写代码，乐此不疲」**  
 **「我喜欢做开源，以此为乐」**
+* nodejs > 16.18.0 && pnpm > 8.6.0 (强
 
 我 🐶 在上海艰苦奋斗，早中晚在 top3 大厂认真搬砖，夜里为开源做贡献。
 
 如果这个项目让你有所收获，记得 Star 关注哦，这对我是非常不错的鼓励与支持。
 
 ## 🐶 新手必读
-
-* nodejs > 16.18.0 && pnpm > 8.6.0 (强制使用pnpm)
+制使用pnpm)
 * 演示地址【Vue3 + element-plus】：<http://dashboard-vue3.yudao.iocoder.cn>
 * 演示地址【Vue3 + vben5.0(ant-design-vue)】：<http://dashboard-vben.yudao.iocoder.cn>
 * 演示地址【Vue2 + element-ui】：<http://dashboard.yudao.iocoder.cn>
